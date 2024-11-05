@@ -25,9 +25,7 @@ This project is a clone of the official Apple website, showcasing the design and
 - HTML5
 - CSS3 (Flexbox, Grid)
 - JavaScript (ES6)
-- [Bootstrap](https://getbootstrap.com/) (for responsive design)
-- [jQuery](https://jquery.com/) (for interactive elements)
-
+  
 ## Installation
 
 1. Clone the repository:
