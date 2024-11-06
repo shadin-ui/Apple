@@ -15,7 +15,6 @@ This project is a **clone** of the official [Apple](https://www.apple.com) websi
 - **HTML5** 📝
 - **CSS3** 🎨
 - **JavaScript** ⚙️
-- **Bootstrap** 👢 (Optional)
 - **React.js** ⚛️ (Optional)
 
 ## 🎯 Goals
@@ -23,9 +22,3 @@ This project is a **clone** of the official [Apple](https://www.apple.com) websi
 - **Replicate the design** of the official Apple website.
 - **Responsive layout** to ensure a good user experience on all devices.
 - **Smooth animations** and transitions for a modern feel.
-
-## 📝 Setup Instructions
-
-1. **Clone the repository** 📂:
-   ```bash
-   git clone https://github.com/yourusername/apple-clone.git
